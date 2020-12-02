@@ -1,0 +1,48 @@
+#myNavbar ul {
+    list-style:none;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    letter-spacing: -2px;
+    line-height: 1.2em;
+    float:left;
+    
+    border:5px solid #e5faf5;
+}
+
+#myNavbar ul li a{
+    display:block;
+    text-decoration:none;
+    padding:5px 10px 5px 10px;
+    background-color:#e5faf5;
+    width:170px;
+    border-left:6px solid #000000; 
+}
+#myNavbar ul li a span{
+    display:block;
+}
+#myNavbar ul li a span.title{
+    color:#000000;
+}
+#myNavbar ul li a:hover{
+    border-left:6px solid #3e9c9d;
+}
+#myNavbar ul li a:hover span.title{
+    color:#3e9c9d;
+
+}
+#myNavbar ul li a span.text{
+    padding:0px 5px;
+    font-size: 8px;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1.4em;
+    visibility:hidden;
+    color:#3e9c9d;
+    text-align:right;
+    border-top:5px solid #3e9c9d;
+}
+#myNavbar ul li a:hover span.text{
+    visibility:visible;
+}
+

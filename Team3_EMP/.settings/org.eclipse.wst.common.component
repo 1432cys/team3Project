@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringMVC_Basic08_Security_Annotation-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/SpringMVC_Basic08_Security_Annotation/build/classes"/>
+        <property name="context-root" value="SpringMVC_Basic_Ajax_03_Rest"/>
+    </wb-module>
+</project-modules>
